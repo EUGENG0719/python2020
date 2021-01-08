@@ -9,7 +9,7 @@ ________("Hello, Python!")
 (A) print   (B) printf   (C) printline   (D) printn
 
 
-(B) printf
+(A)
 ```
 ```
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
@@ -19,6 +19,9 @@ __這是一行註解
 print("Hello, Python!")
 
 (A)	/   (B) -   (C) #   (D) <!-->
+
+
+(c)
 ```
 ```
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
@@ -28,6 +31,8 @@ print("Hello, Python!")
 
 (A) (1)ksu，(2)school    (B) (1) school，(2) ksu  
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
+
+???
 ```
 ```
 4.要檢查變數資料型別 底下程式需使用哪個函數:
@@ -38,6 +43,8 @@ print(______(y))
 
 (A) str   (B) sum   (C) int   (D)type
 
+
+(D)
 ```
 ```
 5.試問以下程式執行後輸出什麼:
@@ -47,6 +54,9 @@ y = 65535
 print(type(y))
 
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
+
+
+(A)
 ```
 ```
 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
@@ -56,6 +66,8 @@ x = 65535
 ______(x)
 
 (A) long   (B) str   (C) float   (D)int
+
+(c)
 ```
 ```
 7.要計算一個字串長度 底下程式需使用哪個函數:
@@ -65,6 +77,8 @@ string1 = "Hello, Python!"
 print(___________(string1))
 
 (A) find   (B) len   (C) count   (D)replace
+
+(b)
 ```
 ```
 8.試問以下程式執行後輸出什麼結果:
@@ -107,7 +121,7 @@ print(_______(a))
 ```
 12.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
-a = “Python!”
+a = "Python!"
 print(type(a))
 
 (A) str   (B) int   (C) float   (D) tuple
