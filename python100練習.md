@@ -32,7 +32,7 @@ print("Hello, Python!")
 (A) (1)ksu，(2)school    (B) (1) school，(2) ksu  
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
 
-???
+B
 ```
 ```
 4.要檢查變數資料型別 底下程式需使用哪個函數:
@@ -293,7 +293,7 @@ print(a.format(b,‘Hello’))
 (D) b,‘Hello’
 
 
-???
+A
 ```
 ```
 25.試問若以下程式執行後要輸出一對雙引號需填入什麼:
@@ -470,7 +470,7 @@ else:
 (D) b
 
 
-???
+A
 ```
 ```
 38.
